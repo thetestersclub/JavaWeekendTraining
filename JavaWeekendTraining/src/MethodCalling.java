@@ -21,7 +21,7 @@ public class MethodCalling {
 		System.out.println("Inside stat method");
 	}
 
-	public void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MethodCalling obj = new MethodCalling();
 		obj.show1();
